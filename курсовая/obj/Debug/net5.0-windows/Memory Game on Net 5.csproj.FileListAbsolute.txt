@@ -1,0 +1,57 @@
+C:\Users\Slomali.by\Desktop\C-Picture-Matching-game-Tutorial-on-Net-5-master\bin\Debug\net5.0-windows\Memory Game on Net 5.exe
+C:\Users\Slomali.by\Desktop\C-Picture-Matching-game-Tutorial-on-Net-5-master\bin\Debug\net5.0-windows\Memory Game on Net 5.deps.json
+C:\Users\Slomali.by\Desktop\C-Picture-Matching-game-Tutorial-on-Net-5-master\bin\Debug\net5.0-windows\Memory Game on Net 5.runtimeconfig.json
+C:\Users\Slomali.by\Desktop\C-Picture-Matching-game-Tutorial-on-Net-5-master\bin\Debug\net5.0-windows\Memory Game on Net 5.runtimeconfig.dev.json
+C:\Users\Slomali.by\Desktop\C-Picture-Matching-game-Tutorial-on-Net-5-master\bin\Debug\net5.0-windows\Memory Game on Net 5.dll
+C:\Users\Slomali.by\Desktop\C-Picture-Matching-game-Tutorial-on-Net-5-master\bin\Debug\net5.0-windows\Memory Game on Net 5.pdb
+C:\Users\Slomali.by\Desktop\C-Picture-Matching-game-Tutorial-on-Net-5-master\obj\Debug\net5.0-windows\Memory_Game_on_Net_5.Form1.resources
+C:\Users\Slomali.by\Desktop\C-Picture-Matching-game-Tutorial-on-Net-5-master\obj\Debug\net5.0-windows\Memory Game on Net 5.csproj.GenerateResource.cache
+C:\Users\Slomali.by\Desktop\C-Picture-Matching-game-Tutorial-on-Net-5-master\obj\Debug\net5.0-windows\Memory Game on Net 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Slomali.by\Desktop\C-Picture-Matching-game-Tutorial-on-Net-5-master\obj\Debug\net5.0-windows\Memory Game on Net 5.AssemblyInfoInputs.cache
+C:\Users\Slomali.by\Desktop\C-Picture-Matching-game-Tutorial-on-Net-5-master\obj\Debug\net5.0-windows\Memory Game on Net 5.AssemblyInfo.cs
+C:\Users\Slomali.by\Desktop\C-Picture-Matching-game-Tutorial-on-Net-5-master\obj\Debug\net5.0-windows\Memory Game on Net 5.csproj.CoreCompileInputs.cache
+C:\Users\Slomali.by\Desktop\C-Picture-Matching-game-Tutorial-on-Net-5-master\obj\Debug\net5.0-windows\Memory Game on Net 5.dll
+C:\Users\Slomali.by\Desktop\C-Picture-Matching-game-Tutorial-on-Net-5-master\obj\Debug\net5.0-windows\refint\Memory Game on Net 5.dll
+C:\Users\Slomali.by\Desktop\C-Picture-Matching-game-Tutorial-on-Net-5-master\obj\Debug\net5.0-windows\Memory Game on Net 5.pdb
+C:\Users\Slomali.by\Desktop\C-Picture-Matching-game-Tutorial-on-Net-5-master\obj\Debug\net5.0-windows\Memory Game on Net 5.genruntimeconfig.cache
+C:\Users\Slomali.by\Desktop\C-Picture-Matching-game-Tutorial-on-Net-5-master\obj\Debug\net5.0-windows\ref\Memory Game on Net 5.dll
+C:\Users\Slomali.by\Desktop\C-Picture-Matching-game-Tutorial-on-Net-5-master\obj\Debug\net5.0-windows\Memory_Game_on_Net_5.Form2.resources
+C:\Users\Slomali.by\Desktop\C-Picture-Matching-game-Tutorial-on-Net-5-master\obj\Debug\net5.0-windows\Memory_Game_on_Net_5.Form3.resources
+D:\Zona\C-Picture-Matching-game-Tutorial-on-Net-5-master\obj\Debug\net5.0-windows\Memory_Game_on_Net_5.Form1.resources
+D:\Zona\C-Picture-Matching-game-Tutorial-on-Net-5-master\obj\Debug\net5.0-windows\Memory_Game_on_Net_5.Form2.resources
+D:\Zona\C-Picture-Matching-game-Tutorial-on-Net-5-master\obj\Debug\net5.0-windows\Memory_Game_on_Net_5.Form3.resources
+D:\Zona\C-Picture-Matching-game-Tutorial-on-Net-5-master\obj\Debug\net5.0-windows\Memory Game on Net 5.csproj.GenerateResource.cache
+D:\Zona\C-Picture-Matching-game-Tutorial-on-Net-5-master\obj\Debug\net5.0-windows\Memory Game on Net 5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zona\C-Picture-Matching-game-Tutorial-on-Net-5-master\obj\Debug\net5.0-windows\Memory Game on Net 5.AssemblyInfoInputs.cache
+D:\Zona\C-Picture-Matching-game-Tutorial-on-Net-5-master\obj\Debug\net5.0-windows\Memory Game on Net 5.AssemblyInfo.cs
+D:\Zona\C-Picture-Matching-game-Tutorial-on-Net-5-master\obj\Debug\net5.0-windows\Memory Game on Net 5.csproj.CoreCompileInputs.cache
+D:\Zona\C-Picture-Matching-game-Tutorial-on-Net-5-master\obj\Debug\net5.0-windows\Memory Game on Net 5.dll
+D:\Zona\C-Picture-Matching-game-Tutorial-on-Net-5-master\obj\Debug\net5.0-windows\refint\Memory Game on Net 5.dll
+D:\Zona\C-Picture-Matching-game-Tutorial-on-Net-5-master\obj\Debug\net5.0-windows\Memory Game on Net 5.pdb
+D:\Zona\C-Picture-Matching-game-Tutorial-on-Net-5-master\bin\Debug\net5.0-windows\Memory Game on Net 5.exe
+D:\Zona\C-Picture-Matching-game-Tutorial-on-Net-5-master\bin\Debug\net5.0-windows\Memory Game on Net 5.deps.json
+D:\Zona\C-Picture-Matching-game-Tutorial-on-Net-5-master\bin\Debug\net5.0-windows\Memory Game on Net 5.runtimeconfig.json
+D:\Zona\C-Picture-Matching-game-Tutorial-on-Net-5-master\bin\Debug\net5.0-windows\Memory Game on Net 5.runtimeconfig.dev.json
+D:\Zona\C-Picture-Matching-game-Tutorial-on-Net-5-master\bin\Debug\net5.0-windows\Memory Game on Net 5.dll
+D:\Zona\C-Picture-Matching-game-Tutorial-on-Net-5-master\bin\Debug\net5.0-windows\Memory Game on Net 5.pdb
+D:\Zona\C-Picture-Matching-game-Tutorial-on-Net-5-master\obj\Debug\net5.0-windows\Memory Game on Net 5.genruntimeconfig.cache
+D:\Zona\C-Picture-Matching-game-Tutorial-on-Net-5-master\obj\Debug\net5.0-windows\ref\Memory Game on Net 5.dll
+C:\Users\Slomali.by\Desktop\ГОТОВОC-Picture-Matching-game-Tutorial-on-Net-5-master\bin\Debug\net5.0-windows\Memory Game on Net 5.exe
+C:\Users\Slomali.by\Desktop\ГОТОВОC-Picture-Matching-game-Tutorial-on-Net-5-master\bin\Debug\net5.0-windows\Memory Game on Net 5.deps.json
+C:\Users\Slomali.by\Desktop\ГОТОВОC-Picture-Matching-game-Tutorial-on-Net-5-master\bin\Debug\net5.0-windows\Memory Game on Net 5.runtimeconfig.json
+C:\Users\Slomali.by\Desktop\ГОТОВОC-Picture-Matching-game-Tutorial-on-Net-5-master\bin\Debug\net5.0-windows\Memory Game on Net 5.runtimeconfig.dev.json
+C:\Users\Slomali.by\Desktop\ГОТОВОC-Picture-Matching-game-Tutorial-on-Net-5-master\bin\Debug\net5.0-windows\Memory Game on Net 5.dll
+C:\Users\Slomali.by\Desktop\ГОТОВОC-Picture-Matching-game-Tutorial-on-Net-5-master\bin\Debug\net5.0-windows\Memory Game on Net 5.pdb
+C:\Users\Slomali.by\Desktop\ГОТОВОC-Picture-Matching-game-Tutorial-on-Net-5-master\obj\Debug\net5.0-windows\Memory Game on Net 5.csproj.GenerateResource.cache
+C:\Users\Slomali.by\Desktop\ГОТОВОC-Picture-Matching-game-Tutorial-on-Net-5-master\obj\Debug\net5.0-windows\Memory Game on Net 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Slomali.by\Desktop\ГОТОВОC-Picture-Matching-game-Tutorial-on-Net-5-master\obj\Debug\net5.0-windows\Memory Game on Net 5.AssemblyInfoInputs.cache
+C:\Users\Slomali.by\Desktop\ГОТОВОC-Picture-Matching-game-Tutorial-on-Net-5-master\obj\Debug\net5.0-windows\Memory Game on Net 5.AssemblyInfo.cs
+C:\Users\Slomali.by\Desktop\ГОТОВОC-Picture-Matching-game-Tutorial-on-Net-5-master\obj\Debug\net5.0-windows\Memory Game on Net 5.csproj.CoreCompileInputs.cache
+C:\Users\Slomali.by\Desktop\ГОТОВОC-Picture-Matching-game-Tutorial-on-Net-5-master\obj\Debug\net5.0-windows\Memory Game on Net 5.dll
+C:\Users\Slomali.by\Desktop\ГОТОВОC-Picture-Matching-game-Tutorial-on-Net-5-master\obj\Debug\net5.0-windows\refint\Memory Game on Net 5.dll
+C:\Users\Slomali.by\Desktop\ГОТОВОC-Picture-Matching-game-Tutorial-on-Net-5-master\obj\Debug\net5.0-windows\Memory Game on Net 5.pdb
+C:\Users\Slomali.by\Desktop\ГОТОВОC-Picture-Matching-game-Tutorial-on-Net-5-master\obj\Debug\net5.0-windows\Memory Game on Net 5.genruntimeconfig.cache
+C:\Users\Slomali.by\Desktop\ГОТОВОC-Picture-Matching-game-Tutorial-on-Net-5-master\obj\Debug\net5.0-windows\ref\Memory Game on Net 5.dll
+C:\Users\Slomali.by\Desktop\ГОТОВОC-Picture-Matching-game-Tutorial-on-Net-5-master\obj\Debug\net5.0-windows\Test.Form1.resources
+C:\Users\Slomali.by\Desktop\ГОТОВОC-Picture-Matching-game-Tutorial-on-Net-5-master\obj\Debug\net5.0-windows\Test.Form2.resources
+C:\Users\Slomali.by\Desktop\ГОТОВОC-Picture-Matching-game-Tutorial-on-Net-5-master\obj\Debug\net5.0-windows\Test.Form3.resources
